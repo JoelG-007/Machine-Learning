@@ -1,1 +1,1 @@
-# adult-income-analysis
+# ML Projects and Notes
