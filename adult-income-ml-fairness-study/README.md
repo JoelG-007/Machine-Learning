@@ -28,3 +28,4 @@ This project presents a structured study of the Adult Income (Census Income) dat
 
 ## Disclaimer
 This project is for educational purposes only and highlights the ethical risks of deploying machine learning models on socio-economic data without bias mitigation.
+
